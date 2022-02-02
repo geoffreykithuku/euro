@@ -1,0 +1,289 @@
+.brand{
+    color: #ababf3;
+    font-size: 40px;
+}
+.menu{
+    font-size: 16px;
+    color: #1f463c;
+}
+.menu:hover{
+    font-size: 16px;
+    color: #1f463c;
+    background: #1bbf57;
+}
+.navbar-brand {
+    font-size: 40px;
+    margin-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.navbar-nav{
+    margin-right: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header1 {
+    padding-top: 40px;
+    height: 40vh;
+    background: rgba(56, 168, 206, 0.74);
+    color: #f1fff4;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    padding-top: 70px;
+}
+.about{
+    padding-top: 60px;
+    font-family: sans-serif;
+    color: #434245;
+}
+.cards{
+    display: flex;
+    width: 100%;
+}
+img{
+    width:300px;
+    height: 30vh;
+    padding-left: 20px;
+}
+.card{
+    padding-left: 20px;
+    margin: auto;
+}
+.left{
+    width: 50%;
+    padding-left: 20px;
+    text-wrap: normal;
+    display:inline-block;
+}
+.right{
+    width: 50%;
+
+}
+table{
+    width: 90%;
+    height: 40vh;
+}
+.progress{
+    width: 100%;
+}
+
+.star{
+    width: 10%;
+}
+.container{
+    margin: 10px auto;
+    width: 90%;
+    padding-top:0;
+}
+.client{
+    float: left;
+    width: 250px;
+    height: 200px;
+    padding: 8px;
+
+}
+
+.subscribe{
+    background: #eeeeee;
+    color:black;
+    height: 70vh;
+}
+.my-footer{
+    height: 20vh;
+    background: #08abb4;
+}
+.carosel{
+    height: 60vh;
+}
+.servl{
+    padding-top: 100px;
+    width: 40%;
+    padding-left: 30px;
+}
+.servr{
+    padding-top: 50px;
+    width: 60%;
+    padding-left: 20px;
+}
+.servimg{
+    width: 80%;
+    height: 70vh;
+    padding-left: 40px;
+}
+.serv1{
+    color: #3d4045;
+    padding-bottom: 50px;
+}
+.cards2{
+    width: 100%;
+    min-height: 70vh;
+}
+.dmartin{
+    background: rgba(105, 156, 197, 0.58);
+    height: 40vh;
+}
+.hdg{
+    width: 20%;
+    margin-left: 40%;
+}
+.prg{
+    margin-left: 10%;
+}
+.cont{
+    height: auto;
+padding-top: 20px;
+}
+.contl{
+    padding-top: 50px;
+    padding-left: 50px;
+
+}
+.contr{
+    padding-top: 50px;
+}
+.crd{
+    width: 26%;
+    height: 40vh;
+    justify-content: center;
+    padding-top: 40px;
+    padding-left: 30px;
+    margin: auto;
+    padding-bottom: 60px;
+    border-radius: 10px;
+    background: #78d3de;
+}
+.last{
+    height: 70vh;
+
+}
+.carousel-item{
+    min-height: 100vh;
+    justify-content: center;
+}
+.slide{
+    width: 100%;
+    height: 100vh;
+}
+.absolute-div{
+    position:relative;
+    justify-content: center;
+
+}
+.destination{
+    padding-top: 60px;
+}
+.inp{
+    padding: 20px;
+    margin: auto;
+    width: 300px;
+    height: 20px;
+}
+.inpt{
+    background: #60c9eb;
+    color: #fff;
+    width: 27%;
+    text-align: center;
+    font-size: 16px;
+    transition: all .4s ease-in-out;
+}
+.form{
+    padding-bottom: 70px;
+}
+.offer{
+    padding-top: 70px;
+}
+.crd1{
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+    width: 19%;
+    background: #b4b7f1;
+}
+.tptv{
+    width:100%;
+    margin: auto;
+}
+.tptv img{
+    height: 50vh;
+    width: 90%;
+    margin: auto;
+}
+.as{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin: auto;
+}
+.card3{
+    padding-top: 50px;
+    border:#434b49;
+    border-radius: 10px;
+    width: 29%;
+    margin: auto;
+    background: #d6e5e2;
+}
+.card3 p{
+    padding-left: 20px;
+    text-align: left;
+}
+.card3 h3{
+    text-align: left;
+    padding-left: 20px;
+}
+.icon{
+    color: #4997bf;
+    width: 80px;
+    height: 60px;
+}
+.icon2{
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.icon3{
+    width: 50px;
+    height: 50px;
+    padding-left: 90px;
+    justify-content: center;
+    align-items: center;
+    padding-top: unset;
+}
+.imgg{
+    height: 20vh;
+    width: 200px;
+    padding-left: 100px;
+}
+.sponsor{
+    height: 25vh;
+}
+.sep{
+    height: 40vh;
+}
+.spo{
+   padding-top: 40px;
+}
+.feedback{
+    padding-bottom: 200px;
+}
+.offers{
+    height: 50vh;
+    background: #a7caec;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.offer1{
+    font-size: 100px;
+}
+.offer2{
+    font-weight: bold;
+}
+.offersl img{
+    padding-top: 80px;
+    width: 60%;
+    padding-left: 30px;
+    height: 100%;
+}
